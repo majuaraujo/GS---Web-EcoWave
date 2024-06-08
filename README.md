@@ -14,7 +14,7 @@
 
 Projeto realizado na [FIAP](https://www.fiap.com.br/) com o objetivo de apresentar a solução visando mitigar impactos na saúde marinha, O EcoWave, mostrando suas funcionalidades.
 
-## :smile: Integrantes
+## :smile: Integrante
 
 
 - [Maria Julia Araujo Rodrigues - RM553384](https://github.com/majuaraujo)
