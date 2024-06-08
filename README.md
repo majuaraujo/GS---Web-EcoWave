@@ -35,6 +35,22 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
 ```
 
+### 2. Instale as dependências
+
+```bash
+npm install
+```
+
+### 3. Execute o servidor de desenvolvimento
+
+```bash
+npm run dev
+```
+
+### 4. Acesse a aplicação
+
+Abra seu navegador e vá para http://localhost:3000 para ver a aplicação em execução.
+
 ## :smile: Integrante
 
 
